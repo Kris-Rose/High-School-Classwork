@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Polynomial()
+comment1.params=first\ second\ third
+comment1.target=Polynomial(Monomial,\ Monomial,\ Monomial)
+comment2.params=x
+comment2.target=double\ evaluate(double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

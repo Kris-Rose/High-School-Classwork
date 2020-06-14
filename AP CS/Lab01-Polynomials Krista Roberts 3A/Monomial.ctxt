@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=coeff\ exp
+comment0.target=Monomial(double,\ int)
+numComments=1
