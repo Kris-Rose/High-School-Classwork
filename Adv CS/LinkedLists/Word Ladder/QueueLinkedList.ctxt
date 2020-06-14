@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=QueueLinkedList
+comment0.text=\r\n\ \r\n\r\n\ @Krista\ R\r\n\ @10/18/19\r\n
+comment1.params=
+comment1.target=QueueLinkedList()
+comment2.params=data
+comment2.target=void\ queue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=int\ size()
+numComments=6

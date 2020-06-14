@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Squeezebox
+comment0.text=\r\nSqueezebox\ here.\r\n\r\n\ @Krista\ R\r\n\ @11/7/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cardA\ cardB
+comment2.target=boolean\ cardEquals(java.lang.String,\ java.lang.String)
+numComments=3
