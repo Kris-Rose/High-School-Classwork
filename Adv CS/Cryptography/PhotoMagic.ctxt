@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PhotoMagic
+comment0.text=\r\n\ \r\n\r\n\ @Krista\ R\r\n\ @5-15-2020\r\n
+comment1.params=pic\ lfsr
+comment1.target=Picture\ transform(Picture,\ LFSR)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
