@@ -1,0 +1,2 @@
+hashset = only keys, no values
+hashmap = can have 1 null key

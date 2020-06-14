@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ \r\n\r\n\ Krista\ Roberts\r\n\ 1/8/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=j
+comment2.target=void\ plotPlainStars(HashTableB)
+comment3.params=constells\ starNames\ wNames
+comment3.target=void\ plotConstellations(HashTableB,\ java.util.ArrayList,\ HashTableB)
+comment4.params=j
+comment4.target=void\ plotByMagnitude(HashTableB)
+comment5.params=
+comment5.target=void\ clearSky()
+comment6.params=sky\ wName
+comment6.target=void\ fillSky(HashTableB,\ HashTableB)
+numComments=7
