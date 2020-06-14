@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Gem
+comment1.params=
+comment1.target=GemType\ getRandomColor()
+comment2.params=
+comment2.target=Gem()
+comment3.params=
+comment3.target=Gem\ gemClone()
+comment4.params=type\ points
+comment4.target=Gem(GemType,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=GemType\ getType()
+comment7.params=
+comment7.target=int\ getPoints()
+comment8.params=x\ y
+comment8.target=void\ draw(double,\ double)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=Tester\ main\ method
+numComments=10

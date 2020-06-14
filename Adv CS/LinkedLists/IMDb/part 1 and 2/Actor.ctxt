@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Actor
+comment0.text=\r\n\ \r\nfor\ part\ 1\ and\ 2\r\n\ @Krista\ R\r\n\ @10/4/19\r\n
+comment1.params=
+comment1.target=Actor()
+comment2.params=name
+comment2.target=Actor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=Actor\ getNextPtr()
+comment6.params=next
+comment6.target=void\ setNextPtr(Actor)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

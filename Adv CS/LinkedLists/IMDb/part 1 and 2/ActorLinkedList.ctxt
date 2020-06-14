@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ActorLinkedList
+comment0.text=\r\n\ For\ part\ 2\r\n\r\n\ @Krista\ R\r\n\ @10/8/19\r\n
+comment1.params=
+comment1.target=ActorLinkedList()
+comment2.params=actor
+comment2.target=void\ add(Actor)
+comment3.params=index
+comment3.target=Actor\ get(int)
+comment4.params=
+comment4.target=int\ size()
+numComments=5
