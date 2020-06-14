@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StringMethods
+comment1.params=
+comment1.target=StringMethods()
+comment2.params=name
+comment2.target=void\ unusualHello(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ stringRipper(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ mirrorEnds(java.lang.String)
+comment5.params=str\ sub
+comment5.target=boolean\ hasSub(java.lang.String,\ java.lang.String)
+comment6.params=str
+comment6.target=boolean\ evenFooBar(java.lang.String)
+comment7.params=str
+comment7.target=java.lang.String\ microwaveTime(java.lang.String)
+comment8.params=str
+comment8.target=java.lang.String\ reverseWords(java.lang.String)
+comment9.params=str
+comment9.target=int\ sumString(java.lang.String)
+numComments=10

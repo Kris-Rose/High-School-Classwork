@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SoundLabProbs()
+comment1.params=n
+comment1.target=void\ triangle(int)
+comment2.params=nums\ value
+comment2.target=int\ lastIndexOf(int[],\ int)
+comment3.params=nums
+comment3.target=int\ range(int[])
+comment4.params=nums
+comment4.target=int\ minDifference(int[])
+comment5.params=bids\ price
+comment5.target=int\ priceIsRight(int[],\ int)
+comment6.params=nums
+comment6.target=int[]\ productExceptSelf(int[])
+numComments=7
