@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=dArr
+comment0.target=TwoDArrays(int[][])
+comment1.params=
+comment1.target=int\ sum()
+comment2.params=
+comment2.target=boolean\ isSquare()
+comment3.params=
+comment3.target=boolean\ inSequence()
+comment4.params=
+comment4.target=int[]\ closestToZero()
+comment5.params=other
+comment5.target=void\ addMatrix(int[][])
+comment6.params=
+comment6.target=void\ print()
+comment7.params=col
+comment7.target=int\ columnSum(int)
+comment8.params=
+comment8.target=boolean\ isColumnMagic()
+comment9.params=
+comment9.target=boolean\ sameDiagonalSums()
+numComments=10
