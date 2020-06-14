@@ -1,2 +1,2 @@
 # High-School-Classwork
-Work I completed in Pre-Ap, AP, or Advanced Computer Science classes
+The work I completed in my AP and Advanced Computer Science classes
