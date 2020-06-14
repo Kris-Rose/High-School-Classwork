@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Entry
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Entry\ here.\r\n\r\n\ @Krista\ R\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Entry()
+comment2.params=key\ value
+comment2.target=Entry(java.lang.Object,\ java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
