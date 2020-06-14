@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vertex
+comment0.text=\r\n\ \r\n\ Krista\ R\r\n\ 4\ -\ 30\ -\ 2020\r\n
+comment1.params=name\ neighbors
+comment1.target=Vertex(java.lang.String,\ Neighbor)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Neighbor\ getNeighbors()
+comment4.params=nbr
+comment4.target=void\ addNeighbor(Neighbor)
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ \r\n\ Krista\ R\r\n\ 4\ -\ 30\ -\ 2020\r\n
+comment1.params=num\ neighbors
+comment1.target=Node(int,\ Neighbor)
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=
+comment3.target=int\ getNum()
+comment4.params=
+comment4.target=Neighbor\ getNeighbors()
+comment5.params=nbr
+comment5.target=void\ addNeighbor(Neighbor)
+numComments=6

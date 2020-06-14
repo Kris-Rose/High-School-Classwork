@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Neighbor
+comment0.text=\r\n\ list\ af\ all\ nodes\ that\ connect\ to\ main\ node\r\n\r\n\ Krista\ R\r\n\ 4-30-2020\r\n
+comment1.params=vnum\ next
+comment1.target=Neighbor(int,\ Neighbor)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=Neighbor\ getNext()
+comment4.params=
+comment4.target=boolean\ hasNext()
+comment5.params=next
+comment5.target=void\ setNext(Neighbor)
+comment6.params=prev
+comment6.target=void\ setPrev(Neighbor)
+numComments=7

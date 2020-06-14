@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Neighbor
+comment0.text=\r\n\ basically\ the\ node\ class\r\n\r\n\ Krista\ R\r\n\ 4-30-2020\r\n
+comment1.params=vnum\ next
+comment1.target=Neighbor(int,\ Neighbor)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=Neighbor\ getNext()
+comment4.params=next
+comment4.target=void\ setNext(Neighbor)
+comment5.params=prev
+comment5.target=void\ setPrev(Neighbor)
+comment6.params=end\ vertexes\ found\ seen
+comment6.target=boolean\ checkAllRoutes(int,\ java.util.ArrayList,\ boolean,\ java.util.ArrayList)
+numComments=7
