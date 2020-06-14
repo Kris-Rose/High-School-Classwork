@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=BitOutputStream
+comment0.text=\ \r\n\ Write\ bits-at-a-time\ where\ the\ number\ of\ bits\ is\ between\ 1\ and\ 32.\ \r\n\ Client\ programs\ must\ call\ <code>flush</code>\ or\ *\ <code>close</code>\ when\ finished\ writing\ or\ not\ all\ bits\ will\ be\ written.\ \r\n\ This\ class\ is\ intended\ to\ be\ used\ with\ <code>BitInputStream</code>\ to\ *\ facilitate\ reading\ and\ writing\ data\ in\ a\ bits-at-a-time\ manner.\ \r\n\ <P>\ *\ Updated\ for\ version\ 2.0\ to\ extend\ java.io.OutputStream\ *\ <P>\ *\ Any\ exceptions\ generated\ are\ rethrown\ as\ <code>RuntimeException</code>\ objects\ \r\n\ so\ client\ code\ does\ not\ have\ to\ catch\ or\ rethrow\ them.\ \r\n\ <P>\ *\ @author\ Owen\ Astrachan\ \r\n\ @version\ 1.0,\ July\ 2000\ \r\n\ @version\ 2.0,\ October\ 2004\ \r\n\ @version\ 2.1,\ March\ 2010,\ Fixed\ >>\ to\ >>>\ bug\ in\ writeBits\ \r\n
+comment1.params=b
+comment1.target=void\ write(int)
+comment1.text=\ \ \ \r\n\ Required\ by\ OutputStream\ subclasses,\ write\ the\ low\ \ \r\n\ 8-bits\ to\ the\ underlying\ outputstream\ \ \ \ \r\n
+comment2.params=out
+comment2.target=BitOutputStream(java.io.OutputStream)
+comment2.text=\ \ \ \ \r\n\ Create\ a\ stream\ that\ writes-through\ to\ the\ <code>OutputStream</code>\ object\ \ \ \ \r\n\ passed\ as\ a\ parameter.\ \ \ \ \ \r\n\ @param\ out\ is\ the\ output\ stream\ to\ which\ bits\ are\ written\ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ initialize()
+comment4.params=filename
+comment4.target=BitOutputStream(java.lang.String)
+comment4.text=\ \ \ \ \ \r\n\ Construct\ a\ bit-at-a-time\ output\ stream\ with\ specified\ file\ \ \ \ \r\n\ name.\ \ \ \ \ \r\n\ @param\ filename\ is\ the\ name\ of\ the\ file\ being\ written\ \ \ \ \r\n\ @throws\ RuntimeException\ if\ opening\ file\ fails\ for\ either\ FileNotFound\ \ \ \ \ \r\n\ or\ for\ Security\ exceptoins\ \ \ \ \r\n
+comment5.params=
+comment5.target=void\ flush()
+comment5.text=\ \ \ \ \ \r\n\ Flushes\ bits\ not\ yet\ written,\ must\ be\ called\ by\ client\ \ \ \ \r\n\ programs\ if\ <code>close</code>\ isn't\ called.\ \ \ \ \r\n\ @throws\ RuntimeException\ if\ there's\ a\ problem\ writing\ bits\ \ \ \ \r\n
+comment6.params=
+comment6.target=void\ close()
+comment6.text=\ \ \ \ \ \r\n\ Releases\ system\ resources\ associated\ with\ file\ and\ \ \ \ \ \r\n\ flushes\ bits\ not\ yet\ written.\ Either\ this\ function\ \ \ \ \ \r\n\ or\ flush\ must\ be\ called\ or\ not\ all\ bits\ will\ be\ written\ \ \ \r\n\ @throws\ RuntimeException\ if\ close\ fails\ \ \ \ \ \r\n
+comment7.params=howManyBits\ value
+comment7.target=void\ writeBits(int,\ int)
+comment7.text=\ \ \ \ \ \r\n\ Write\ specified\ number\ of\ bits\ from\ value\ to\ a\ file.\ \ \ \ \ \r\n\ @param\ howManyBits\ is\ number\ of\ bits\ to\ write\ (1-32)\ \ \ \ \r\n\ @param\ value\ is\ source\ of\ bits,\ rightmost\ bits\ are\ written\ \ \ \ \ \r\n\ @throws\ RuntimeException\ if\ there's\ an\ I/O\ problem\ writing\ bits\ \ \ \ \ \r\n
+numComments=8
