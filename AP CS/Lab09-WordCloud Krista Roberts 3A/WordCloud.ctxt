@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=WordCloud(java.lang.String)
+comment1.params=str
+comment1.target=int\ getIndex(java.lang.String)
+comment2.params=fileName
+comment2.target=void\ load(java.lang.String)
+comment3.params=
+comment3.target=java.util.ArrayList\ getTopHits()
+comment4.params=
+comment4.target=void\ printInfo()
+numComments=5
