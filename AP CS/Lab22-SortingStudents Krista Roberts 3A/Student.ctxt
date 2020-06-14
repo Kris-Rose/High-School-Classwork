@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment1.params=name\ StudentID
+comment1.target=Student(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=a
+comment5.target=boolean\ equals(Student)
+comment6.params=a
+comment6.target=int\ compareTo(Student)
+comment6.text=\r\n\ \ \ \ public\ int\ compareTo(Student\ a){\r\n\ \ \ \ \ \ \ \ if(this.studentID>\ a.getID()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ 1;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\ if(this.studentID<\ a.getID()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ -1;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ 0;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=7
