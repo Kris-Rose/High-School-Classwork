@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ 4\ part\ 4\r\n\r\n\ @Krista\ R\r\n\ @12-3-19\r\n
+comment1.params=VIN\ year\ make\ countyOrigin
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getVIN()
+comment3.params=
+comment3.target=java.lang.String\ getYear()
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment5.params=
+comment5.target=java.lang.String\ getCountyOrigin()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
